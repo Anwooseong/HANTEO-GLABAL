@@ -1,11 +1,11 @@
-package api.controller.category;
+package num1.api.controller.category;
 
-import api.ApiResponse;
-import api.CustomApiException;
-import api.dto.CreateCategoryDTO;
-import api.dto.SearchCategoryDTO;
-import api.service.category.CategoryService;
-import entity.category.Category;
+import num1.api.ApiResponse;
+import num1.api.CustomApiException;
+import num1.api.dto.CreateCategoryDTO;
+import num1.api.dto.SearchCategoryDTO;
+import num1.api.service.category.CategoryService;
+import num1.entity.category.Category;
 
 import java.util.List;
 import java.util.Scanner;

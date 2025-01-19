@@ -1,6 +1,6 @@
-package api.service.board;
+package num1.api.service.board;
 
-import entity.board.Board;
+import num1.entity.board.Board;
 
 public interface BoardService {
 

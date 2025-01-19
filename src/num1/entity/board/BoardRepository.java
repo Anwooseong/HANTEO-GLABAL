@@ -1,4 +1,4 @@
-package entity.board;
+package num1.entity.board;
 
 import java.util.ArrayList;
 import java.util.HashMap;

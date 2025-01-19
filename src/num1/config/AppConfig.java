@@ -1,13 +1,13 @@
-package config;
+package num1.config;
 
-import api.controller.board.BoardController;
-import api.controller.category.CategoryController;
-import api.service.board.BoardService;
-import api.service.board.BoardServiceImpl;
-import api.service.category.CategoryService;
-import api.service.category.CategoryServiceImpl;
-import entity.board.BoardRepository;
-import entity.category.CategoryRepository;
+import num1.api.controller.board.BoardController;
+import num1.api.controller.category.CategoryController;
+import num1.api.service.board.BoardService;
+import num1.api.service.board.BoardServiceImpl;
+import num1.api.service.category.CategoryService;
+import num1.api.service.category.CategoryServiceImpl;
+import num1.entity.board.BoardRepository;
+import num1.entity.category.CategoryRepository;
 
 public class AppConfig {
 

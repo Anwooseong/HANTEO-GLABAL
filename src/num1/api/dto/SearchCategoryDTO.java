@@ -1,6 +1,6 @@
-package api.dto;
+package num1.api.dto;
 
-import entity.category.Category;
+import num1.entity.category.Category;
 
 import java.util.List;
 

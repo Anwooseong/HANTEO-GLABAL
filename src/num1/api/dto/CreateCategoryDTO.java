@@ -1,6 +1,6 @@
-package api.dto;
+package num1.api.dto;
 
-import entity.category.Category;
+import num1.entity.category.Category;
 
 public record CreateCategoryDTO(Long id, String name) {
     public static CreateCategoryDTO from(Category category) {

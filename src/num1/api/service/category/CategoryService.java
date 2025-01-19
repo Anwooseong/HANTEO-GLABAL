@@ -1,6 +1,6 @@
-package api.service.category;
+package num1.api.service.category;
 
-import entity.category.Category;
+import num1.entity.category.Category;
 
 import java.util.List;
 

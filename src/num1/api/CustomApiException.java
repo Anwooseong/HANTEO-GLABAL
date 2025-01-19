@@ -1,4 +1,4 @@
-package api;
+package num1.api;
 
 public class CustomApiException extends RuntimeException {
     private final String message;

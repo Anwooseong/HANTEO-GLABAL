@@ -1,6 +1,6 @@
-package api.dto;
+package num1.api.dto;
 
-import entity.board.Board;
+import num1.entity.board.Board;
 
 public record SearchBoardDTO(Long id, String title, String content) {
 

@@ -1,13 +1,13 @@
-package api.controller.board;
+package num1.api.controller.board;
 
-import api.ApiResponse;
-import api.CustomApiException;
-import api.dto.SaveBoardDTO;
-import api.dto.SearchBoardDTO;
-import api.service.board.BoardService;
-import api.service.category.CategoryService;
-import entity.board.Board;
-import entity.category.Category;
+import num1.api.ApiResponse;
+import num1.api.CustomApiException;
+import num1.api.dto.SaveBoardDTO;
+import num1.api.dto.SearchBoardDTO;
+import num1.api.service.board.BoardService;
+import num1.api.service.category.CategoryService;
+import num1.entity.board.Board;
+import num1.entity.category.Category;
 
 import java.util.InputMismatchException;
 import java.util.List;

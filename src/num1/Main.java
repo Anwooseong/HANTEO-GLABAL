@@ -1,9 +1,11 @@
-import api.controller.board.BoardController;
-import api.controller.category.CategoryController;
-import api.service.board.BoardService;
-import api.service.category.CategoryService;
-import config.AppConfig;
-import entity.category.Category;
+package num1;
+
+import num1.api.controller.board.BoardController;
+import num1.api.controller.category.CategoryController;
+import num1.api.service.board.BoardService;
+import num1.api.service.category.CategoryService;
+import num1.config.AppConfig;
+import num1.entity.category.Category;
 
 import java.util.Scanner;
 

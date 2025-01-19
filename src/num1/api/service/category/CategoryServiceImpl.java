@@ -1,9 +1,9 @@
-package api.service.category;
+package num1.api.service.category;
 
-import api.CustomApiException;
-import entity.board.BoardRepository;
-import entity.category.Category;
-import entity.category.CategoryRepository;
+import num1.api.CustomApiException;
+import num1.entity.board.BoardRepository;
+import num1.entity.category.Category;
+import num1.entity.category.CategoryRepository;
 
 import java.util.List;
 

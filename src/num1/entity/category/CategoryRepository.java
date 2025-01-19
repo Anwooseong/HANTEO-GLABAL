@@ -1,4 +1,4 @@
-package entity.category;
+package num1.entity.category;
 
 import java.util.ArrayList;
 import java.util.HashMap;

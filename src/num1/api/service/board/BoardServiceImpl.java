@@ -1,10 +1,10 @@
-package api.service.board;
+package num1.api.service.board;
 
-import api.CustomApiException;
-import entity.board.Board;
-import entity.board.BoardRepository;
-import entity.category.Category;
-import entity.category.CategoryRepository;
+import num1.api.CustomApiException;
+import num1.entity.board.Board;
+import num1.entity.board.BoardRepository;
+import num1.entity.category.Category;
+import num1.entity.category.CategoryRepository;
 
 public class BoardServiceImpl implements BoardService{
     private final CategoryRepository categoryRepository;

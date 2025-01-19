@@ -1,4 +1,4 @@
-package entity.board;
+package num1.entity.board;
 
 public class Board {
     private Long boardId;
