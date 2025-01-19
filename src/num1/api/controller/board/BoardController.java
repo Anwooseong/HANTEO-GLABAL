@@ -42,7 +42,7 @@ public class BoardController {
 
                         System.out.print("게시글 제목: ");
                         String title = scanner.nextLine();
-                        System.out.println("게시글 내용: ");
+                        System.out.print("게시글 내용: ");
                         String content = scanner.nextLine();
 
                         // 게시글 추가
