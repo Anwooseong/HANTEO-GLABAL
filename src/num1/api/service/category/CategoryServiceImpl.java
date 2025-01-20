@@ -9,11 +9,9 @@ import java.util.List;
 
 public class CategoryServiceImpl implements CategoryService {
     private final CategoryRepository categoryRepository;
-    private final BoardRepository boardRepository;
 
-    public CategoryServiceImpl(CategoryRepository categoryRepository, BoardRepository boardRepository) {
+    public CategoryServiceImpl(CategoryRepository categoryRepository) {
         this.categoryRepository = categoryRepository;
-        this.boardRepository = boardRepository;
     }
 
     @Override

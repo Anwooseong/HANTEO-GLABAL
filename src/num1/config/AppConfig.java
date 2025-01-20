@@ -24,7 +24,7 @@ public class AppConfig {
     }
 
     public CategoryService categoryService() {
-        return new CategoryServiceImpl(categoryRepository(), boardRepository());
+        return new CategoryServiceImpl(categoryRepository());
     }
 
     public CategoryRepository categoryRepository() {

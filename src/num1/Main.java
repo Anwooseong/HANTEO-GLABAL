@@ -17,7 +17,6 @@ public class Main {
 
         initData();
 
-        // BoardController 시작
         Scanner scanner = new Scanner(System.in);
         CategoryController categoryController = appConfig.categoryController();
         BoardController boardController = appConfig.boardController();
